@@ -81,3 +81,5 @@ postgresql:
   postgresUser: "sonarUser"
   postgresPassword: "sonarPass"
   postgresDatabase: "sonarDB"
+  service:
+    port: 5432
